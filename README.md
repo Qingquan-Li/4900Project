@@ -1,4 +1,4 @@
-# 4900Project
+# CISC 4900 Project - Cloud Container Management Dashboard
 Project Logs for CISC 4900
 
 My internship have their own private repository, and this GitHub repository is for class purposes and tracks my project files (i.e., timelog, diagrams, slides, etc).
